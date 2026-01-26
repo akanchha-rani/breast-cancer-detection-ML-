@@ -19,41 +19,41 @@ The model is trained on a structured dataset containing multiple tumor-related f
 
 - To gain hands-on experience with real-world ML workflows
 
-📊 Dataset Information
+## 📊 Dataset Information
 
-File Name: breast cancer.csv
+- File Name: breast cancer.csv
 
-Source: UCI Wisconsin Breast Cancer Dataset (or similar)
+- Source: UCI Wisconsin Breast Cancer Dataset (or similar)
 
-Type: Structured / Tabular Dataset
+- Type: Structured / Tabular Dataset
 
-Dataset Features
+- Dataset Features
 
 The dataset contains numeric features computed from digitized images of fine needle aspirate (FNA) of breast masses. Typical features include:
 
-Radius
+- Radius
 
-Texture
+- Texture
 
-Perimeter
+- Perimeter
 
-Area
+- Area
 
-Smoothness
+- Smoothness
 
-Compactness
+- Compactness
 
-Concavity
+- Concavity
 
-Symmetry
+- Symmetry
 
-Fractal dimension
+- Fractal dimension
 
 Target Variable
 
-0 → Benign
+- 0 → Benign
 
-1 → Malignant
+- 1 → Malignant
 
 🧠 Machine Learning Workflow
 
