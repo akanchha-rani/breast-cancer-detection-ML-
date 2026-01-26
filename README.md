@@ -47,4 +47,10 @@ Symmetry
 
 Fractal dimension
 
+Target Variable
+
+0 → Benign
+
+1 → Malignant
+
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
