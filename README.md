@@ -137,4 +137,16 @@ Scikit-learn
 
 Tool: Jupyter Notebook
 
+💡 Learning Outcomes
+
+Practical understanding of ML classification problems
+
+Experience working with medical datasets
+
+Hands-on practice with Scikit-learn
+
+Improved data analysis and evaluation skills
+
+Confidence in explaining ML projects during interviews
+
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
