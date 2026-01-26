@@ -91,4 +91,16 @@ Random Forest Classifier (if applicable)
 
 The model was trained using the training dataset and optimized for better performance.
 
+5️⃣ Model Evaluation
+
+Evaluation metrics used:
+
+Accuracy Score
+
+Confusion Matrix
+
+Classification Report (Precision, Recall, F1-Score)
+
+These metrics help measure how well the model predicts unseen data.
+
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
