@@ -107,13 +107,13 @@ Target Variable
 
 - These metrics help measure how well the model predicts unseen data.
 
-📈 Results & Performance
+## 📈 Results & Performance
 
-The trained model successfully classifies breast tumors into Benign or Malignant
+- The trained model successfully classifies breast tumors into Benign or Malignant
 
-Achieved high accuracy on test data
+- Achieved high accuracy on test data
 
-Demonstrates the effectiveness of ML in medical diagnosis support systems
+- Demonstrates the effectiveness of ML in medical diagnosis support systems
 
 🗂️ Project Structure
 
