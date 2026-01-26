@@ -1,5 +1,6 @@
-🩺 Breast Cancer Detection Using Machine Learning
-📌 Project Description
+#🩺 Breast Cancer Detection Using Machine Learning
+
+##📌 Project Description
 
 Breast cancer is one of the most prevalent and life-threatening diseases affecting women worldwide. Early diagnosis significantly improves survival rates and treatment success. This project focuses on building a Machine Learning–based classification system that can accurately predict whether a breast tumor is Benign (Non-cancerous) or Malignant (Cancerous) using clinical diagnostic features.
 
