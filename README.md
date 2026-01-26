@@ -128,23 +128,23 @@ breast-cancer-detection-ML-/
 ├── README.md                          # Project documentation
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Programming Language: Python
+- Programming Language: Python
 
-Libraries:
+- Libraries:
 
-NumPy
+  - NumPy
 
-Pandas
+  - Pandas
 
-Matplotlib
+  - Matplotlib
 
-Seaborn
+  - Seaborn
 
-Scikit-learn
+  - Scikit-learn
 
-Tool: Jupyter Notebook
+- Tool: Jupyter Notebook
 
 💡 Learning Outcomes
 
