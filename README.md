@@ -111,7 +111,13 @@ Achieved high accuracy on test data
 
 Demonstrates the effectiveness of ML in medical diagnosis support systems
 
+🗂️ Project Structure
 
+breast-cancer-detection-ML-/
+│
+├── breast cancer.csv                  # Dataset file
+├── Breast_Cancer_Predction.ipynb      # Jupyter Notebook (ML implementation)
+├── README.md                          # Project documentation
 
 
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
