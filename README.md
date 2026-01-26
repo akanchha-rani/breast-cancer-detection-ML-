@@ -6,17 +6,18 @@ Breast cancer is one of the most prevalent and life-threatening diseases affecti
 
 The model is trained on a structured dataset containing multiple tumor-related features and implemented using Python and Scikit-learn in a Jupyter Notebook environment.
 
-🎯 Objectives
 
-To understand and analyze breast cancer diagnostic data
+## 🎯 Objectives
 
-To apply data preprocessing and feature analysis techniques
+- To understand and analyze breast cancer diagnostic data
 
-To train and evaluate machine learning classification models
+- To apply data preprocessing and feature analysis techniques
 
-To predict tumor type (Benign or Malignant) with high accuracy
+- To train and evaluate machine learning classification models
 
-To gain hands-on experience with real-world ML workflows
+- To predict tumor type (Benign or Malignant) with high accuracy
+
+- To gain hands-on experience with real-world ML workflows
 
 📊 Dataset Information
 
