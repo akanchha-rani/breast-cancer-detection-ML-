@@ -25,4 +25,26 @@ Source: UCI Wisconsin Breast Cancer Dataset (or similar)
 
 Type: Structured / Tabular Dataset
 
+Dataset Features
+
+The dataset contains numeric features computed from digitized images of fine needle aspirate (FNA) of breast masses. Typical features include:
+
+Radius
+
+Texture
+
+Perimeter
+
+Area
+
+Smoothness
+
+Compactness
+
+Concavity
+
+Symmetry
+
+Fractal dimension
+
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
