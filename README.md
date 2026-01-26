@@ -17,6 +17,12 @@ To predict tumor type (Benign or Malignant) with high accuracy
 
 To gain hands-on experience with real-world ML workflows
 
+📊 Dataset Information
 
+File Name: breast cancer.csv
+
+Source: UCI Wisconsin Breast Cancer Dataset (or similar)
+
+Type: Structured / Tabular Dataset
 
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
