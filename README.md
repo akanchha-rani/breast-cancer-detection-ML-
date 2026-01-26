@@ -115,13 +115,18 @@ Target Variable
 
 - Demonstrates the effectiveness of ML in medical diagnosis support systems
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 
 breast-cancer-detection-ML-/
+
 │
+
 ├── breast cancer.csv                  # Dataset file
+
 ├── Breast_Cancer_Predction.ipynb      # Jupyter Notebook (ML implementation)
+
 ├── README.md                          # Project documentation
+
 
 🛠️ Technologies Used
 
