@@ -53,4 +53,11 @@ Target Variable
 
 1 → Malignant
 
+🧠 Machine Learning Workflow
+1️⃣ Data Loading
+
+Loaded the dataset using Pandas
+
+Checked dataset shape, column names, and data types
+
 <img width="654" alt="breast-cancer" src="https://github.com/user-attachments/assets/ff4846fe-9405-42f8-a135-53aa2a410c99" />
