@@ -1,5 +1,6 @@
 # 🩺 Breast Cancer Detection Using Machine Learning
 
+
 ## 📌 Project Description
 
 Breast cancer is one of the most prevalent and life-threatening diseases affecting women worldwide. Early diagnosis significantly improves survival rates and treatment success. This project focuses on building a Machine Learning–based classification system that can accurately predict whether a breast tumor is Benign (Non-cancerous) or Malignant (Cancerous) using clinical diagnostic features.
@@ -55,55 +56,56 @@ Target Variable
 
 - 1 → Malignant
 
-🧠 Machine Learning Workflow
+
+## 🧠 Machine Learning Workflow
 
 1️⃣ Data Loading
 
-Loaded the dataset using Pandas
+- Loaded the dataset using Pandas
 
-Checked dataset shape, column names, and data types
+- Checked dataset shape, column names, and data types
 
 2️⃣ Data Preprocessing
 
-Handled missing or unnecessary columns
+- Handled missing or unnecessary columns
 
-Converted categorical labels into numerical form
+- Converted categorical labels into numerical form
 
-Split dataset into features (X) and target (y)
+- Split dataset into features (X) and target (y)
 
-Performed Train-Test Split to evaluate model performance
+- Performed Train-Test Split to evaluate model performance
 
 3️⃣ Exploratory Data Analysis (EDA)
 
-Checked class distribution (Benign vs Malignant)
+- Checked class distribution (Benign vs Malignant)
 
-Analyzed feature correlations
+- Analyzed feature correlations
 
-Identified important patterns in the data
+- Identified important patterns in the data
 
 4️⃣ Model Selection & Training
 
-Machine Learning algorithms used (based on notebook):
+- Machine Learning algorithms used (based on notebook):
 
-Logistic Regression
+- Logistic Regression
 
-Support Vector Machine (SVM)
+- Support Vector Machine (SVM)
 
-Random Forest Classifier (if applicable)
+- Random Forest Classifier (if applicable)
 
-The model was trained using the training dataset and optimized for better performance.
+- The model was trained using the training dataset and optimized for better performance.
 
 5️⃣ Model Evaluation
 
-Evaluation metrics used:
+- Evaluation metrics used:
 
-Accuracy Score
+- Accuracy Score
 
-Confusion Matrix
+- Confusion Matrix
 
-Classification Report (Precision, Recall, F1-Score)
+- Classification Report (Precision, Recall, F1-Score)
 
-These metrics help measure how well the model predicts unseen data.
+- These metrics help measure how well the model predicts unseen data.
 
 📈 Results & Performance
 
